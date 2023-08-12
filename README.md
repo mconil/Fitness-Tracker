@@ -9,6 +9,7 @@ User will be able to create and login to their personal fitness profile. They wi
 -MongoDB <br>
 -Express <br>
 
-[Blank board.pdf](https://github.com/mconil/Fitness-Tracker/files/12328189/Blank.board.pdf)
+
+![Alt text ](https://github.com/mconil/Fitness-Tracker/files/12328195/Blank.board.pdf)
 
 
